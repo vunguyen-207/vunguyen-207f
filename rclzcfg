@@ -1,18 +1,27 @@
 Keybind: x1
-Color sensitive factor: 100
+Color sensitive factor: 90
 Width FOV: 100
 Height FOV: 100
 Enemy color: purple
-Smoothness: 7
-Dynamic smoothness speed: 0.07
+Synchronization smoothness: True
+Smoothness: 10
+Dynamic smoothness speed: 0.08
 Dynamic smoothness pixel condition: 10
 Scan speed: 0.001
 RCS Manual: True
 RCS Auto: False
+RCS Auto activate condition: 0.2
 RCS Auto Speed: 4
 Y Offset: 4
 X Offset: 0
-Humanize aim position pixels: 0
+Humanize aim position: False
 Legit mode: True
 Legit mode Anti-Y (Pixel): 25
-
+Triggerbot (Risky): False
+Triggerbot delay: 0.01
+FOV Triggerbot Basic: 2
+FOV Triggerbot Extended: 100
+Triggerbot color sensitive factor: 75
+Triggerbot burst mode: False
+Triggerbot burst mode interval: 2
+Triggerbot scan speed: 0
