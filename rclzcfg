@@ -3,7 +3,7 @@ Color sensitive factor: 90
 Width FOV: 100
 Height FOV: 100
 Enemy color: purple
-Synchronization smoothness: True
+Synchronization smoothness: False
 Smoothness: 10
 Dynamic smoothness speed: 0.08
 Dynamic smoothness pixel condition: 10
