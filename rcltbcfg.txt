@@ -1,0 +1,25 @@
+{
+    "always_enabled": false,
+    "keybind": "0x05",
+    "trigger_speed": 1,
+    "hsv_range": [
+        [
+            130,
+            50,
+            50
+        ],
+        [
+            160,
+            255,
+            255
+        ]
+    ],
+    "trigger_delay": 0.01,
+    "fov_triggerbot_basic": 1,
+    "fov_triggerbot": 100,
+    "burst_mode": false,
+    "burst_mode_avgbullets": 2,
+    "strafe_counter": false,
+    "capture_interval": 0.0,
+    "hide_console": false
+}
