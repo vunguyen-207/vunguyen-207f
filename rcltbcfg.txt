@@ -1,7 +1,7 @@
 {
     "always_enabled": false,
     "keybind": "0x05",
-    "trigger_speed": 1,
+    "trigger_speed": 0,
     "hsv_range": [
         [
             130,
@@ -20,6 +20,6 @@
     "burst_mode": false,
     "burst_mode_avgbullets": 2,
     "strafe_counter": false,
-    "capture_interval": 0.0,
+    "capture_interval": 0,
     "hide_console": false
 }
