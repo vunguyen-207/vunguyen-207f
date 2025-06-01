@@ -1,0 +1,34 @@
+Keybind: x1
+Hue Min: 130
+Hue Max: 160
+Saturation Min: 50
+Saturation Max: 255
+Value Min: 50
+Value Max: 255
+Width FOV: 60
+Height FOV: 100
+Synchronization smoothness: True
+Smoothness: 14
+Dynamic smoothness speed: 0.05
+Dynamic smoothness pixel condition: 6
+Scan speed: 0.0001
+RCS Manual: False
+RCS Auto: False
+RCS Auto activate condition: 0.1
+RCS Auto Speed: 9
+Y Offset: 3
+X Offset: 0
+Humanize aim position: False
+Legit mode: True
+Legit mode Anti-Y (Pixel): 25
+Triggerbot (Risky): False
+Triggerbot delay: 0.01
+FOV Triggerbot Extended-AddonRay: 40
+FOV Triggerbot Basic: 2
+FOV Triggerbot Extended: 100
+Triggerbot burst mode: False
+Triggerbot burst mode interval: 3
+Triggerbot scan speed: 0
+Apply legit mode to Triggerbot: False
+Reload config keybind: f5
+Hide console: False
