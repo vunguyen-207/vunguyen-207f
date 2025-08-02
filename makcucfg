@@ -1,4 +1,4 @@
-Keybind: chuot_phai
+Keybind: x1
 Color system: HSV
 HSV preset: Purple
 RGB color: red
@@ -12,7 +12,7 @@ Value Max: 100
 Width FOV: 200
 Height FOV: 50
 Synchronization smoothness: True
-Smoothness: 1
+Smoothness: 10
 Dynamic smoothness speed: 0.05
 Dynamic smoothness pixel condition: 6
 Scan speed: 0.0001
@@ -26,6 +26,7 @@ Humanize aim position: False
 Legit mode: False
 Legit mode Anti-Y (Pixel): 23
 Triggerbot (Risky): True
+Triggerbot keybind: x2
 Triggerbot delay: 0.01
 FOV Triggerbot Extended-AddonRay: 40
 FOV Triggerbot Basic: 2
