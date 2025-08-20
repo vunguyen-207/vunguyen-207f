@@ -1,33 +1,32 @@
-[Capture]
-Stream URL: 
-Fixed Width: 256
-Fixed Height: 256
-
-[Aimbot]
 Keybind: chuot_phai
+Color system: HSV
+HSV preset: Purple
+RGB color: red
+RGB color sensitive value: 100
+Hue Min: 285
+Hue Max: 310
+Saturation Min: 20
+Saturation Max: 100
+Value Min: 95
+Value Max: 100
 Width FOV: 100
-Height FOV: 50
+Height FOV: 100
 Synchronization smoothness: True
-Smoothness: 5
+Smoothness: 14
 Dynamic smoothness speed: 0.05
 Dynamic smoothness pixel condition: 6
-Scan speed: 0
-Y Offset: 3
-X Offset: 0
-Humanize aim position: False
-Legit mode: False
-Legit mode Anti-Y (Pixel): 23
-
-[Recoil Control System]
+Scan speed: 0.0001
 RCS Manual: True
 RCS Auto: False
 RCS Auto activate condition: 0.1
 RCS Auto Speed: 9
-
-[Triggerbot]
-Triggerbot (Risky): True
-Triggerbot keybind: left_alt
-Triggerbot delay: 0.25
+Y Offset: 4
+X Offset: 0
+Humanize aim position: False
+Legit mode: True
+Legit mode Anti-Y (Pixel): 25
+Triggerbot (Risky): False
+Triggerbot delay: 0.01
 FOV Triggerbot Extended-AddonRay: 40
 FOV Triggerbot Basic: 2
 FOV Triggerbot Extended: 100
@@ -37,12 +36,6 @@ Triggerbot scan speed: 0
 Apply legit mode to Triggerbot: False
 Reload config keybind: f5
 Hide console: False
-
-[Color Filter]
-Color Preset: purple
-R Min: 220
-R Max: 255
-G Min: 100
-G Max: 195
-B Min: 190
-B Max: 255
+Stream URL: udp://192.168.1.100:9999?pkt_size=65535&fflags=nobuffer&probesize=32&analyzeduration=0
+Fixed Width: 256
+Fixed Height: 256
