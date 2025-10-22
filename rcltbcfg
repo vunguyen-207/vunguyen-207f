@@ -1,6 +1,6 @@
 {
     "always_enabled": false,
-    "keybind": "0x12",
+    "keybind": "0x02",
     "trigger_speed": 0,
     "hsv_range": [
         [
@@ -23,9 +23,10 @@
     "optimize_capture_beta": false,
     "capture_interval": 0.0,
     "hide_console": false,
-    "hitbox_detection": false,
-    "hitbox_method": "V3",
-    "fov_triggerbot_addonray": false,
+    "hitbox_detection": true,
+    "hitbox_method": "V2",
+    "click_method": "multiprocess_key",
+    "fov_triggerbot_addonray": true,
     "addon_ray_offset": 30,
     "addon_ray_length": 50
 }
