@@ -25,7 +25,7 @@
     "hide_console": false,
     "hitbox_detection": true,
     "hitbox_method": "V2",
-    "click_method": "multiprocess_key",
+    "click_method": "default",
     "fov_triggerbot_addonray": true,
     "addon_ray_offset": 30,
     "addon_ray_length": 50
