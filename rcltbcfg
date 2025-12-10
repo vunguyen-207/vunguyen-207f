@@ -21,14 +21,14 @@
     "burst_sleep_time": 0.23,
     "strafe_counter": false,
     "optimize_capture_beta": false,
-    "capture_interval_enabled": false,
+    "capture_interval_enabled": true,
     "capture_interval": 0.001,
     "hide_console": false,
     "hitbox_detection": true,
     "hitbox_method": "V2",
-    "click_method": "multiprocess_key",
+    "click_method": "multiprocess_postmessage",
     "fov_triggerbot_addonray": true,
     "addon_ray_offset": 30,
     "addon_ray_length": 50,
-    "capture_method": "always"
+    "capture_method": "default"
 }
